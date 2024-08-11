@@ -1,0 +1,5 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".BaseActivity">
+</menu>
+<!-- From: file:/Users/muzammilpeer/Git/BitBucket/Ranisaurus/Android/1.0/MobileApplication/baselayer/src/main/res/menu/menu_base.xml --><!-- From: file:/Users/muzammilpeer/Git/BitBucket/Ranisaurus/Android/1.0/MobileApplication/app/build/intermediates/exploded-aar/MobileApplication/baselayer/unspecified/res/menu/menu_base.xml -->

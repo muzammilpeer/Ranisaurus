@@ -1,0 +1,6 @@
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:id="@+id/fragment"
+    android:name="com.ranisaurus.baselayer.fragment.BaseFragment"
+    tools:layout="@layout/fragment_base" android:layout_width="match_parent"
+    android:layout_height="match_parent" />
+<!-- From: file:/Users/muzammilpeer/Git/BitBucket/Ranisaurus/Android/1.0/MobileApplication/baselayer/src/main/res/layout/activity_base.xml --><!-- From: file:/Users/muzammilpeer/Git/BitBucket/Ranisaurus/Android/1.0/MobileApplication/app/build/intermediates/exploded-aar/MobileApplication/baselayer/unspecified/res/layout/activity_base.xml -->

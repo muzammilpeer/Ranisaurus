@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#00BCD4</color>
+    <color name="primary_dark">#0097A7</color>
+    <color name="accent">#00BCD4</color>
+    <color name="accent_translucent">#800097A7</color>
+    <color name="accent_bright">#0097A7</color>
+
+    //icons 12 colors
+    <color name="icon_color_0">#FF0000</color> //red
+    <color name="icon_color_1">#800000</color> //maroon
+    <color name="icon_color_2">#FFFF00</color> //yellow
+    <color name="icon_color_3">#808000</color> //olive
+    <color name="icon_color_4">#00FF00</color> //lime
+    <color name="icon_color_5">#008000</color> //green
+    <color name="icon_color_6">#00FFFF</color> //aqua
+    <color name="icon_color_7">#008080</color> //teal
+    <color name="icon_color_8">#0000FF</color> //blue
+    <color name="icon_color_9">#000080</color> //navy
+    <color name="icon_color_10">#FF00FF</color> //fuchsia
+    <color name="icon_color_11">#800080</color> //purple
+
+
+    //icons 12 colors
+    <color name="status_color_0">#80FF0000</color> //red
+    <color name="status_color_1">#80800000</color> //maroon
+    <color name="status_color_2">#80FFFF00</color> //yellow
+    <color name="status_color_3">#80808000</color> //olive
+    <color name="status_color_4">#8000FF00</color> //lime
+    <color name="status_color_5">#80008000</color> //green
+    <color name="status_color_6">#8000FFFF</color> //aqua
+    <color name="status_color_7">#80008080</color> //teal
+    <color name="status_color_8">#800000FF</color> //blue
+    <color name="status_color_9">#80000080</color> //navy
+    <color name="status_color_10">#80FF00FF</color> //fuchsia
+    <color name="status_color_11">#80800080</color> //purple
+
+</resources>

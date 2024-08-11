@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/muzammilpeer/Git/BitBucket/Ranisaurus/Android/1.0/MobileApplication/app/build/intermediates/exploded-aar/MobileApplication/databaselayer/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="35939e7ca67d2588d47c41a196945bc24d44a688">
+        <dex dex="/Users/muzammilpeer/Git/BitBucket/Ranisaurus/Android/1.0/MobileApplication/app/build/intermediates/pre-dexed/debug/classes-f7dd7b8e0bf7a1a953d2f010e5a1e9a215478021.jar" />
+    </item>
+
+</items>
